@@ -1,0 +1,13 @@
+setup.py
+car_rental/__init__.py
+car_rental/items.py
+car_rental/middlewares.py
+car_rental/pipelines.py
+car_rental/settings.py
+car_rental/spiders/__init__.py
+car_rental/spiders/cars_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
